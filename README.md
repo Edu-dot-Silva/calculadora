@@ -18,3 +18,5 @@ O arquivo index.html contém a estrutura da página da calculadora.
 O arquivo css/style.css define o estilo visual da calculadora.
 O arquivo js/main.js contém o código JavaScript responsável pela funcionalidade da calculadora.
 
+Desenvolvedor: Eduardo E. da Silva
+
